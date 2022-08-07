@@ -1,0 +1,7 @@
+﻿  cApp.cpp
+  cMain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 437 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GUI_wxWidgets.vcxproj -> C:\Users\Josiah\Desktop\Coding\wxWidgets-Minesweeper\Minesweeper\GUI_wxWidgets - Mine Sweeper\Release\GUI_wxWidgets.exe
